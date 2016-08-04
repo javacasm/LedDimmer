@@ -21,6 +21,10 @@ Se activan perfectamente desde las señales de 3.3v de los ESP8266 (probar con l
 ![TiraLEds5730.jpg](./images/TiraLEds5730.jpg)
 2,95€
 
+* [5 x Barras Led ](http://www.aliexpress.com/snapshot/7957305546.html?orderId=77331752630875)
+![LedBar.jpg](./images/LedBar.jpg)
+10,12€
+
 * [USB serial para ESP8266](http://www.aliexpress.com/snapshot/7957305544.html?orderId=77331752620875)
 
 ![USB2SerialESP8266.jpg](./images/USB2SerialESP8266.jpg)

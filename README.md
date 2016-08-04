@@ -9,3 +9,7 @@ Se trata de [montar la versión 2 de QuinLed](http://blog.quindorian.org/2016/08
 Que nos permite controlar de forma eficiente 2 tiras de leds
 
 Se han comprado los materiales, las pcbs y algunas tiras de leds de diferente formato para experimentar
+
+[BOM](./Bom.md)
+
+[Recursos](./Recursos.md)

@@ -14,3 +14,5 @@
 # [Sobre led y montaje de QuinLed](http://blog.quindorian.org/2016/08/esp8266-led-lighting-board-files-and-components-list.html/)
 
 # [Diseño de la v2](http://blog.quindorian.org/2015/04/esp8266-wifi-led-dimmer-part-8-of-x-version-2-of-the-pcb-design.html/)
+
+# [Leds 5730](http://nergiza.com/led-smd-5730-es-mas-eficiente/)

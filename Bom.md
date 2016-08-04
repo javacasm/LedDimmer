@@ -22,12 +22,21 @@ Se activan perfectamente desde las señales de 3.3v de los ESP8266 (probar con l
 2,95€
 
 * [USB serial para ESP8266](http://www.aliexpress.com/snapshot/7957305544.html?orderId=77331752620875)
+
 ![USB2SerialESP8266.jpg](./images/USB2SerialESP8266.jpg)
 1,44€
 
 * [Terminales atornillables](http://www.aliexpress.com/snapshot/7957305550.html?orderId=77331752650875)
 ![ScrewTerminal.jpg](./images/ScrewTerminal.jpg)
 100 unidades/5,67€
+
+* [Pines de colores](http://www.aliexpress.com/snapshot/7957289753.html?orderId=77331752700875)
+![pines](./images/Pines.jpg)
+1.1$
+
+* [DC-DC Buck converter](http://www.aliexpress.com/snapshot/7957289755.html?orderId=77331752710875)
+![DC-DC_Buck_Converter.jpg](./images/DC-DC_Buck_Converter.jpg)
+3,95$
 
 * [PCBs](http://dirtypcbs.com/view.php?share=22911&accesskey=d71fb07b5c27833b79b3068bd48f9644)
 PCB Top

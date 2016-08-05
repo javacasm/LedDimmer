@@ -42,6 +42,10 @@ Se activan perfectamente desde las señales de 3.3v de los ESP8266 (probar con l
 ![DC-DC_Buck_Converter.jpg](./images/DC-DC_Buck_Converter.jpg)
 3,95$
 
+* [Terminales](http://www.aliexpress.com/snapshot/7957305538.html?orderId=77331752590875)
+![Terminales](./images/Terminales.jpg)
+5,7€
+
 * [PCBs](http://dirtypcbs.com/view.php?share=22911&accesskey=d71fb07b5c27833b79b3068bd48f9644)
 PCB Top
 ![top](./images/PBC_Top.png)
